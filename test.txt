@@ -1,0 +1,10 @@
+wait 1 sec
+AA FA 02 02 01 FB BB
+wait 1 sec
+AA FA 02 0A 01 F3 BB
+wait 1 sec
+AA FA 02 12 01 EB BB
+wait 1 sec
+AA FA 02 2A 01 D3 BB
+wait 1 sec
+AA FA 02 21 01 D8 BB
